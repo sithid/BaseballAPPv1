@@ -31,3 +31,5 @@ C:\Users\demon\OneDrive\Documents\GitHub\BaseballAPPv1\BaseballAPP.API\obj\Debug
 C:\Users\demon\OneDrive\Documents\GitHub\BaseballAPPv1\BaseballAPP.API\obj\Debug\net8.0\BaseballAPP.API.pdb
 C:\Users\demon\OneDrive\Documents\GitHub\BaseballAPPv1\BaseballAPP.API\obj\Debug\net8.0\BaseballAPP.API.genruntimeconfig.cache
 C:\Users\demon\OneDrive\Documents\GitHub\BaseballAPPv1\BaseballAPP.API\obj\Debug\net8.0\ref\BaseballAPP.API.dll
+C:\Users\demon\OneDrive\Documents\GitHub\BaseballAPPv1\BaseballAPP.API\bin\Debug\net8.0\BaseballAPP.Service.dll
+C:\Users\demon\OneDrive\Documents\GitHub\BaseballAPPv1\BaseballAPP.API\bin\Debug\net8.0\BaseballAPP.Service.pdb
