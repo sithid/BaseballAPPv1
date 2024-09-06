@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaseballAPP.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a846f3fc9a1bb2f0a22c434061efdd468f34483c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+320fdcd6ec96b735f097c56145c752d8a5de28f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaseballAPP.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaseballAPP.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\demon\\OneDrive\\Documents\\GitHub\\BaseballAPPv1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F4554A26-3EB3-4E65-8AAF-98DEEF8691AA}|BaseballAPP.API\\BaseballAPP.API.csproj|c:\\users\\demon\\onedrive\\documents\\github\\baseballappv1\\baseballapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4554A26-3EB3-4E65-8AAF-98DEEF8691AA}|BaseballAPP.API\\BaseballAPP.API.csproj|solutionrelative:baseballapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4554A26-3EB3-4E65-8AAF-98DEEF8691AA}|BaseballAPP.API\\BaseballAPP.API.csproj|c:\\users\\demon\\onedrive\\documents\\github\\baseballappv1\\baseballapp.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4554A26-3EB3-4E65-8AAF-98DEEF8691AA}|BaseballAPP.API\\BaseballAPP.API.csproj|solutionrelative:baseballapp.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4554A26-3EB3-4E65-8AAF-98DEEF8691AA}|BaseballAPP.API\\BaseballAPP.API.csproj|c:\\users\\demon\\onedrive\\documents\\github\\baseballappv1\\baseballapp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4554A26-3EB3-4E65-8AAF-98DEEF8691AA}|BaseballAPP.API\\BaseballAPP.API.csproj|solutionrelative:baseballapp.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B7B8CB3-9626-4DD3-95EF-FBF834DFB261}|BaseballAPP.Service\\BaseballAPP.Service.csproj|c:\\users\\demon\\onedrive\\documents\\github\\baseballappv1\\baseballapp.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B7B8CB3-9626-4DD3-95EF-FBF834DFB261}|BaseballAPP.Service\\BaseballAPP.Service.csproj|solutionrelative:baseballapp.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +31,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\demon\\OneDrive\\Documents\\GitHub\\BaseballAPPv1\\BaseballAPP.API\\Program.cs",
+              "RelativeDocumentMoniker": "BaseballAPP.API\\Program.cs",
+              "ToolTip": "C:\\Users\\demon\\OneDrive\\Documents\\GitHub\\BaseballAPPv1\\BaseballAPP.API\\Program.cs",
+              "RelativeToolTip": "BaseballAPP.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:25:44.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\demon\\OneDrive\\Documents\\GitHub\\BaseballAPPv1\\BaseballAPP.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BaseballAPP.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\demon\\OneDrive\\Documents\\GitHub\\BaseballAPPv1\\BaseballAPP.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BaseballAPP.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:17:56.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\demon\\OneDrive\\Documents\\GitHub\\BaseballAPPv1\\BaseballAPP.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BaseballAPP.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\demon\\OneDrive\\Documents\\GitHub\\BaseballAPPv1\\BaseballAPP.API\\WeatherForecast.cs",
+              "RelativeToolTip": "BaseballAPP.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T04:17:50.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\demon\\OneDrive\\Documents\\GitHub\\BaseballAPPv1\\BaseballAPP.Service\\Class1.cs",
               "RelativeDocumentMoniker": "BaseballAPP.Service\\Class1.cs",
