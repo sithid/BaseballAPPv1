@@ -11,8 +11,8 @@ namespace BaseballAPP.API.Controllers
         private List<string> Players = ["Alex", "John", "Joe"];
         private Team playerTeam = new Team();
 
-        [HttpGet("GetNameOfPlayer")]
-        public string GetNameOfPlayer(int playerID )
+        [HttpGet("GetPlayerName")]
+        public string GetNameOfPlayer()
         {
             return "Alex";
         }

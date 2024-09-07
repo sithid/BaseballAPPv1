@@ -48,17 +48,11 @@
   {
     "ContainingType": "BaseballAPP.API.Controllers.TeamController",
     "Method": "GetNameOfPlayer",
-    "RelativePath": "Team/GetNameOfPlayer",
+    "RelativePath": "Team/GetPlayerName",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [
-      {
-        "Name": "playerID",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
+    "Parameters": [],
     "ReturnTypes": [
       {
         "Type": "System.String",
